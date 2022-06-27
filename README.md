@@ -1,7 +1,7 @@
 # Surfs Up
 
 ## Overview of Statistacal Analysis 
-The code is a beginning process of learning how to write Flask application while delivering the observed weather patterns from Hawaii. Filtering out the data using Python, Pandas Function, SQLAlchemy from the Measuremnt table in hawii.sqlite.
+The code is a beginning process of learning how to write Flask application while delivering the observed weather patterns from Hawaii. Filtering out the data using Python, Pandas Function, SQLAlchemy from the Measuremnt table in hawii.sqlite. We retrived all the tempertures from the month of June and December to generate a summary of statistics.
 
 ## Results
 * One of the difference you can see is that there is more data recorded from the month of June.
